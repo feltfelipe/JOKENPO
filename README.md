@@ -4,9 +4,9 @@ Jogo de pedra, papel e tesoura com cores simples para aumentar o escopo de conhe
 Ferramentas utilizadas:
 
 - Linguagem Python
-- - Bibliotecas random (apenas função randint) e time (apenas função sleep)
+- Bibliotecas random (apenas função randint) e time (apenas função sleep)
 - Estruturas condicionais.
-- 
+  
 #Boas práticas:
 
 - Sempre destrinche suas necessidades para a realização do programa em um passo a passo informal (linguagem comum);
